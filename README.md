@@ -1,6 +1,6 @@
 ### Nice to meet you! 👋
 
-I am Seungwon Lee who is interested in machine learning from Bundang, Republic of Korea.
+I'm Seungwon Lee who is interested in machine learning from Bundang, Republic of Korea.
 
 <!--
 **LeeSeungwon89/LeeSeungwon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
