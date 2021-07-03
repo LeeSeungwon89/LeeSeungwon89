@@ -4,7 +4,7 @@ I'm Seungwon Lee who is interested in machine learning from Bundang, Republic of
 
 I'm currently working on a small project. I promise to work hard at it.
 
-Thanks.
+Thank you for coming.
 
 <!--
 **LeeSeungwon89/LeeSeungwon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
