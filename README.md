@@ -4,7 +4,7 @@ I'm Seungwon Lee who is interested in machine learning from Bundang, Republic of
 
 I'm currently working on a small project. I promise to work hard at it.
 
-My instagram ID is cityman_lee.
+My instagram ID is 'cityman_lee'.
 
 
 Thank you for coming.
