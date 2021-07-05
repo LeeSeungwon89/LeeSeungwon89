@@ -7,7 +7,7 @@ I'm currently working on a small project. I promise to work hard at it.
 My instagram ID is 'cityman_lee'.
 
 
-Thank you for coming.
+Thank you for coming. :)
 
 <!--
 **LeeSeungwon89/LeeSeungwon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
