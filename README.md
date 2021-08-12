@@ -8,6 +8,17 @@ I promise to work hard at it. please cheer for me. 😄
 
 Thank you for coming :)
 
+
+## Related experience 
+
+- 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료
+
+  - 21.3.11 ~ 21.8.4. in SD Academy
+
+  - 총 824시간
+
+  - [최종 발표 영상](https://youtu.be/2j4seUgV3-A)
+
 ## Certificate
 
 - 정보처리기사
@@ -22,15 +33,5 @@ Thank you for coming :)
 - 유통관리사 2급
 - 텔레마케팅관리사
 - 한국사능력검정시험 1급
-
-## Related experience 
-
-- 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료
-
-  - 21.3.11 ~ 21.8.4. in SD Academy
-
-  - 총 824시간
-
-  - [최종 발표 영상](https://youtu.be/2j4seUgV3-A)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
