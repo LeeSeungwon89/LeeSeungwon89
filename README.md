@@ -10,7 +10,7 @@ Thank you for coming :)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
 
-# My certificate
+# Certificate
 
 - 정보처리기사
 - 컴퓨터활용능력 1급
@@ -24,6 +24,12 @@ Thank you for coming :)
 - 유통관리사 2급
 - 텔레마케팅관리사
 - 한국사능력검정시험 1급
+
+# Related experience 
+
+- 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료(21.3.11 ~ 21.8.4. 824시간, SD academy)
+
+ - [최종 발표 영상]()
 
 <!--
 **LeeSeungwon89/LeeSeungwon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
