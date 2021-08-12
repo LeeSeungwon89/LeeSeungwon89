@@ -8,7 +8,7 @@ I promise to work hard at it. please cheer for me. 😄
 
 Thank you for coming :)
 
-# Certificate
+## Certificate
 
 - 정보처리기사
 - 컴퓨터활용능력 1급
@@ -23,7 +23,7 @@ Thank you for coming :)
 - 텔레마케팅관리사
 - 한국사능력검정시험 1급
 
-# Related experience 
+## Related experience 
 
 - 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료
 
