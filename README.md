@@ -25,7 +25,9 @@ Thank you for coming :)
 
 # Related experience 
 
-- 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료(21.3.11 ~ 21.8.4., 824시간, SD academy)
+- 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료(21.3.11 ~ 21.8.4.)
+
+  - 총 824시간, SD Academy
 
   - [최종 발표 영상](https://youtu.be/2j4seUgV3-A)
 
