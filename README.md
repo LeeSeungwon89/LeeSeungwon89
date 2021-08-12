@@ -6,9 +6,6 @@ I'm interested in machine learning and currently working on a small project.
 
 I promise to work hard at it. please cheer for me. 😄
 
-My instagram ID is 'cityman_lee'.
-
-
 Thank you for coming :)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
