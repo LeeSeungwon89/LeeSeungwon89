@@ -2,7 +2,7 @@
 
 I'm Seungwon Lee from Bundang, Republic of Korea.  
 
-I'm interested in machine learning and currently working on a small project.
+I'm interested in Machine learning and currently working on a small project.
 
 I promise to work hard at it. please cheer for me. 😄
 
