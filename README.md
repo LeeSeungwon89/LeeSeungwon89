@@ -15,7 +15,7 @@ Thank you for coming :)
 
   - 21.3.11 ~ 21.8.4. (총 824시간)
 
-  - SD Academy (Main lecturer: 류영표)
+  - SD Academy (Main lecturer: [류영표](https://github.com/Youngpyoryu))
 
   - [최종 발표 영상](https://youtu.be/2j4seUgV3-A)
 
