@@ -29,7 +29,7 @@ Thank you for coming :)
 
 - 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료(21.3.11 ~ 21.8.4., 824시간, SD academy)
 
- - [최종 발표 영상]()
+  - [최종 발표 영상](https://youtu.be/2j4seUgV3-A)
 
 <!--
 **LeeSeungwon89/LeeSeungwon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
