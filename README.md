@@ -10,6 +10,21 @@ Thank you for coming :)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
 
+# My certificate
+
+- 정보처리기사
+- 컴퓨터활용능력 1급
+- 사무자동화산업기사
+- 워드프로세서
+- ITQ 한글 A급, 엑셀 A급, 파워포인트 A급
+- GTQ 1급
+- 물류관리사
+- 국제무역사
+- 무역영어 1급
+- 유통관리사 2급
+- 텔레마케팅관리사
+- 한국사능력검정시험 1급
+
 <!--
 **LeeSeungwon89/LeeSeungwon89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
