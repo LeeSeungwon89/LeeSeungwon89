@@ -38,6 +38,5 @@ Thank you for coming :)
 - 기타 자격증
   - 텔레마케팅관리사
   - 한국사능력검정시험 1급
-  - 운전면허 2급 보통
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
