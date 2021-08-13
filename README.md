@@ -13,7 +13,7 @@ Thank you for coming :)
 
 - 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료
 
-  - 21.3.11 ~ 21.8.4. (총 824시간)
+  - 21.3.11. ~ 21.8.4. (총 824시간)
 
   - SD Academy (Main lecturer: [류영표](https://github.com/Youngpyoryu))
 
