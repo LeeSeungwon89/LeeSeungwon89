@@ -1,4 +1,4 @@
-### Nice to meet you! 👋
+### Welcome to my dream space! 👋
 
 I'm Seungwon Lee from Bundang, Republic of Korea.  
 
