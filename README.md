@@ -38,6 +38,6 @@ Thank you for coming :)
 - 기타
   - 텔레마케팅관리사
   - 한국사능력검정시험 1급
-  - KBS 한국어능력시험 2$^-$급
+  - KBS 한국어능력시험 2-급
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
