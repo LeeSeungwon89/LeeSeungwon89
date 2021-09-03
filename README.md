@@ -8,6 +8,11 @@ I promise to work hard at it. please cheer for me. 😄
 
 Thank you for coming :)
 
+## Programming languages
+
+- Python
+
+- SQL, MySQL
 
 ## Related experience 
 
@@ -16,8 +21,6 @@ Thank you for coming :)
   - 21.3.11. ~ 21.8.4. (총 824시간)
 
   - SD Academy (Main lecturer: [류영표](https://github.com/Youngpyoryu))
-
-  - Python, Machine Learning, SQL
 
   - [최종 발표 영상](https://youtu.be/2j4seUgV3-A)
 
