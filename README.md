@@ -17,7 +17,7 @@ Thank you for coming :)
 
   - SD Academy (Main lecturer: [류영표](https://github.com/Youngpyoryu))
 
-  - Python, SQL, Machine Learning
+  - Python, Machine Learning, SQL
 
   - [최종 발표 영상](https://youtu.be/2j4seUgV3-A)
 
