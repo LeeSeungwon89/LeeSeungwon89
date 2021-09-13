@@ -1,6 +1,6 @@
 ### Welcome! It's my dream space! 👋
 
-I'm Seungwon Lee from Republic of Korea  
+I'm Seungwon Lee from Republic of Korea.  
 
 I'm interested in Machine learning and currently working on a small project.
 
