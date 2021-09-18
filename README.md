@@ -22,7 +22,7 @@ Thank you for coming 😄
 
   - SD Academy (Main lecturer: [류영표](https://github.com/Youngpyoryu))
 
-  - [최종 발표 영상](https://youtu.be/2j4seUgV3-A)
+  - [최종 발표](https://youtu.be/2j4seUgV3-A)
 
 - 깃허브 블로그 생성 예정
 
