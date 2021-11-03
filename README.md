@@ -12,7 +12,7 @@ Thank you for coming 😄
 
 - Python
 
-- SQL, MySQL
+- SQL
 
 - HTML
 
