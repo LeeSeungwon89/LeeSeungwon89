@@ -14,7 +14,7 @@ Thank you for coming 😄
 
 - SQL
 
-- HTML
+- (HTML)
 
 ## Related experience 
 
