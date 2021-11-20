@@ -54,6 +54,7 @@ Thank you for coming 😄
 - Listening to music and singing
 - Riding a bycicle
 - Communicating with people
+- Speaking in Korean
 - Taking care of dogs
 - Drinking makgeolli
 - Going to unlimited refill restaurants
