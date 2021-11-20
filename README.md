@@ -55,9 +55,9 @@ Thank you for coming 😄
 - Riding a bycicle
 - Communicating with people
 - Taking care of dogs
+- Playing Super Mario games
 - Drinking makgeolli
 - Going to unlimited refill restaurants
-- Playing Super Mario games
 - Speaking in Korean
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
