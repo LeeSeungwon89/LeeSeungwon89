@@ -54,6 +54,7 @@ Thank you for coming 😄
 - Singing and Listening to misic
 - Riding a bycicle
 - Drinking
+- Communicating
 - Taking care of dogs
 - Playing Super Mario games
 
