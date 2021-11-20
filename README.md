@@ -51,7 +51,7 @@ Thank you for coming 😄
 
 ## Favorite
 
-- Singing and Listening to music
+- Listening to music and singing
 - Riding a bycicle
 - Drinking
 - Communicating
