@@ -49,4 +49,12 @@ Thank you for coming 😄
   - KBS 한국어능력시험 2-급
   - 운전 면허 2종 보통
 
+## Favorite
+
+- Singing and Listening to misic
+- Riding a bycicle
+- Drinking
+- Taking care of dogs
+- Playing Super Mario games
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
