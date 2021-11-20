@@ -53,9 +53,9 @@ Thank you for coming 😄
 
 - Listening to music and singing
 - Riding a bycicle
-- Drinking makgeolli
 - Communicating with people
 - Taking care of dogs
+- Drinking makgeolli
 - Playing Super Mario games
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
