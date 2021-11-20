@@ -58,6 +58,5 @@ Thank you for coming 😄
 - Playing Super Mario games
 - Drinking makgeolli
 - Going to unlimited refill restaurants
-- Speaking in Korean
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
