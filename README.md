@@ -51,7 +51,7 @@ Thank you for coming 😄
 
 ## Favorite
 
-- Singing and Listening to misic
+- Singing and Listening to music
 - Riding a bycicle
 - Drinking
 - Communicating
