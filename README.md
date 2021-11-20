@@ -49,7 +49,7 @@ Thank you for coming 😄
   - KBS 한국어능력시험 2-급
   - 운전 면허 2종 보통
 
-## Favorite 
+## Favorite things
 
 - Listening to music and singing
 - Riding a bycicle
