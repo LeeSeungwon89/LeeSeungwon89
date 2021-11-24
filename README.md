@@ -60,3 +60,4 @@ Thank you for coming 😄
   - 운전 면허 2종 보통
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeungWon89&layout=compact&theme=default&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
