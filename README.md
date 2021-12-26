@@ -8,16 +8,6 @@ I promise to work hard at it. please cheer for me!
 
 Thank you for coming 😄
 
-## Favorite things
-
-- Listening to music and singing
-- Riding a bycicle
-- Communicating with people
-- Taking care of dogs
-- Playing Super Mario games
-- Drinking makgeolli
-- Going to unlimited refill restaurants
-
 ## Programming languages
 
 - Python
@@ -58,6 +48,16 @@ Thank you for coming 😄
   - 한국사능력검정시험 1급
   - KBS 한국어능력시험 2-급
   - 운전 면허 2종 보통
+
+## Favorite things
+
+- Listening to music and singing
+- Riding a bycicle
+- Communicating with people
+- Taking care of dogs
+- Playing Super Mario games
+- Drinking makgeolli
+- Going to unlimited refill restaurants
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeungWon89)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeungWon89&layout=compact&theme=default&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
