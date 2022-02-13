@@ -14,7 +14,7 @@ Thank you for coming! 😄
 
 - SQL
 
-## Related experience 
+## Related experience
 
 - 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료
 
