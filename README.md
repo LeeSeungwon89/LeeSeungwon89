@@ -1,4 +1,4 @@
-## 🔔 Welcome! It's my dream space! 🔔
+## 🔔 Welcome! It's my dream space!
 
 I'm Seungwon Lee from Republic of Korea.  
 
@@ -8,7 +8,7 @@ I promise to work hard at it. please cheer for me!
 
 Thank you for coming! 😄
 
-## Programming languages
+## 💻 Programming languages
 
 - Python
 
