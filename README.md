@@ -14,7 +14,7 @@ Thank you for coming! 😄
 
 - SQL
 
-## Related experience
+## 🏃 Related experience
 
 - 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료
 
@@ -26,7 +26,7 @@ Thank you for coming! 😄
 
 - 깃허브 블로그 생성 예정
 
-## Certificate
+## 💪 Certificate
 
 - 컴퓨터, 사무 범주
   - 정보처리기사
@@ -49,7 +49,7 @@ Thank you for coming! 😄
   - KBS 한국어능력시험 2-급
   - 운전 면허 2종 보통
 
-## Favorite things
+## 😆 Favorite things
 
 - Listening to music and singing
 - Riding a bycicle
