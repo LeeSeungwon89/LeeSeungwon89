@@ -53,8 +53,8 @@ Thank you for coming! 😄
 
 - Listening to music and singing
 - Riding a bycicle
-- Communicating with people
-- Taking care of dogs
+- Communicating with people  
+- Taking care of dogs  
 - Playing Super Mario games
 - Drinking makgeolli
 - Going to unlimited refill restaurants
