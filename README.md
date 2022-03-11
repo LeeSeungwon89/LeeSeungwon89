@@ -6,7 +6,7 @@ I'm interested in Data Analytics, Machine learning and currently working on a sm
 
 I promise to work hard at it. please cheer for me! 
 
-Thank you for coming! 😄
+Thank you for coming!! 😄
 
 ## 💻 Programming languages
 
