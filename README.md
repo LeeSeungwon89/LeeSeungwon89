@@ -54,7 +54,7 @@ Thank you for coming!! 😄
 - Listening to music and singing
 - Riding a bycicle
 - Communicating with people
-- Expressing a fact or my thought by writing it down.
+- Expressing my thought by writing it down.
 - Taking care of dogs
 - Playing Super Mario games
 - Drinking makgeolli
