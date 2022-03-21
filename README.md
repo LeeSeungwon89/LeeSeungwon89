@@ -1,12 +1,12 @@
 ## 🔔 Welcome! It's my dream space! 
 
-I'm Seungwon Lee from Republic of Korea.  
+I'm Seungwon Lee from Republic of Korea.
 
 I'm interested in Data Analytics, Machine learning and currently working on a small project.
 
-I promise to work hard at it. please cheer for me! 
+I promise to work hard at it. please cheer for me!
 
-Thank you for coming!! 😄
+Thank you for coming!!😄
 
 ## 💻 Programming languages
 
