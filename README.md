@@ -35,7 +35,6 @@ Thank you for coming!!😄
   - 워드프로세서
   - ITQ 한글 A급, 엑셀 A급, 파워포인트 A급
   - GTQ 1급
-  - ADSP, 빅데이터분석기사, SQLD 응시 예정
 
 - 물류, 유통, 무역 범주
   - 물류관리사
