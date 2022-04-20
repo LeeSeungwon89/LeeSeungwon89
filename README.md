@@ -8,11 +8,13 @@ I promise to work hard at it. please cheer for me!
 
 Thank you for coming!!😄
 
-## 💻 Programming languages
+## 💻 Skill set
 
 - Python
 
 - SQL
+
+- Git
 
 ## 🏃 Related experience
 
