@@ -1,4 +1,4 @@
-## 🔔 Welcom! It's my dream space! 
+## 🔔 Welcome! It's my dream space! 
 
 I'm Seungwon Lee from Republic of Korea.
 
