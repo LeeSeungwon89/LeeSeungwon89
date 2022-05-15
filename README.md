@@ -8,14 +8,6 @@ I promise to work hard at it. please cheer for me!
 
 Thank you for coming!!😄
 
-## 💻 Skill set
-
-- Python
-
-- SQL
-
-- Git
-
 ## 🏃 Related experience
 
 - 최적화된 도구(R/Python)를 활용한 애널리스트 양성 과정 수료
@@ -35,6 +27,14 @@ Thank you for coming!!😄
   - TA(Text Analytics, Text Mining)
   
   - NLP(Nature Language Processing)
+
+## 💻 Skill set
+
+- Python
+
+- SQL
+
+- Git
 
 ## 💪 Certificate 
 
