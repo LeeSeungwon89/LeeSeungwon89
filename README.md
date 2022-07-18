@@ -18,8 +18,6 @@ Thank you for coming!!😄
 
   - [최종 발표](https://youtu.be/2j4seUgV3-A)
 
-- 깃허브 블로그 생성 예정
-
 ## 😏 My field of interest
 
 - Data Analytics, Machine Learning
