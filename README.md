@@ -43,7 +43,7 @@ Thank you for coming!!😄
   - 워드프로세서
   - ITQ 한글 A급, 엑셀 A급, 파워포인트 A급
   - GTQ 1급
-  - ADSP, SQLD 취득 예정(10/29, 11/5)
+  - ADSP, SQLD  예정(10/29, 11/5)
 
 - 물류, 유통, 무역 범주
   - 물류관리사
