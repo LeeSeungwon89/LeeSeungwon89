@@ -37,9 +37,9 @@ Thank you for coming!!😄
 ## 💪 Certificate 
 
 - 컴퓨터, 사무 범주
-  - 정보처리기사
   - ADsP
   - SQLD
+  - 정보처리기사
   - 컴퓨터활용능력 1급
   - 사무자동화산업기사
   - 워드프로세서
